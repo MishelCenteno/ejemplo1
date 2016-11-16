@@ -1,0 +1,4 @@
+casa
+edificio
+flores
+chocolate
